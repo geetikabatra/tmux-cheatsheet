@@ -16,7 +16,7 @@ A modern, interactive cheat sheet for Tmux commands. Built with React and Tailwi
 
 ## Live Demo
 
-Visit the live site: [Tmux Cheat Sheet](https://geetikabatra.github.io/tmux-cheatsheet)
+Visit the live site: [Tmux Cheat Sheet](https://tmux-cheatsheet-c35yfwsl6-geetikabatras-projects.vercel.app)
 
 ## Local Development
 
@@ -29,7 +29,7 @@ Visit the live site: [Tmux Cheat Sheet](https://geetikabatra.github.io/tmux-chea
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/tmux-cheatsheet.git
+git clone https://github.com/geetikabatra/tmux-cheatsheet.git
 cd tmux-cheatsheet
 ```
 
